@@ -127,8 +127,11 @@ The dashboard provides real-time monitoring of important Human Resource KPIs.
 
 # Dashboard Preview
 
-
+## 1.Executive Dashboard
+- https://github.com/joewilliam13/HR-Analytics-PowerBI-Dashboard/blob/main/Dashboard_Screenshots/Executive%20Dashbord.png
 ## 2.Attrition Analysis
  - https://github.com/joewilliam13/HR-Analytics-PowerBI-Dashboard/blob/main/Dashboard_Screenshots/Attrition%20%20Dashbord.png
 ## 3.Employee Performance
-https://github.com/joewilliam13/HR-Analytics-PowerBI-Dashboard/blob/main/Dashboard_Screenshots/Performance%20Analysis.png
+- https://github.com/joewilliam13/HR-Analytics-PowerBI-Dashboard/blob/main/Dashboard_Screenshots/Performance%20Analysis.png
+## 4.Workforce Demographics
+
