@@ -128,3 +128,5 @@ The dashboard provides real-time monitoring of important Human Resource KPIs.
 # Dashboard Preview
 
 
+## 2.Attrition Analysis
+ - https://github.com/joewilliam13/HR-Analytics-PowerBI-Dashboard/blob/main/Dashboard_Screenshots/Attrition%20%20Dashbord.png
