@@ -129,13 +129,14 @@ The dashboard provides real-time monitoring of important Human Resource KPIs.
 ## Dashboard Preview
 
 ## 1.Executive Dashboard
-- https://github.com/joewilliam13/HR-Analytics-PowerBI-Dashboard/blob/main/Dashboard_Screenshots/Executive%20Dashbord.png
+- <a href="https://github.com/joewilliam13/HR-Analytics-PowerBI-Dashboard/blob/main/Dashboard_Screenshots/Executive%20Dashbord.png">Dashbord</a>
 ## 2.Attrition Analysis
- - https://github.com/joewilliam13/HR-Analytics-PowerBI-Dashboard/blob/main/Dashboard_Screenshots/Attrition%20%20Dashbord.png
+ -<a href="https://github.com/joewilliam13/HR-Analytics-PowerBI-Dashboard/blob/main/Dashboard_Screenshots/Attrition%20%20Dashbord.png">Dashbord</a>
 ## 3.Employee Performance
-- https://github.com/joewilliam13/HR-Analytics-PowerBI-Dashboard/blob/main/Dashboard_Screenshots/Performance%20Analysis.png
+-<a href="https://github.com/joewilliam13/HR-Analytics-PowerBI-Dashboard/blob/main/Dashboard_Screenshots/Performance%20Analysis.png">Dashbord</a>
 ## 4.Workforce Demographics
--https://github.com/joewilliam13/HR-Analytics-PowerBI-Dashboard/blob/main/Dashboard_Screenshots/Workforce%20Insights.png
+-<a href="https://github.com/joewilliam13/HR-Analytics-PowerBI-Dashboard/blob/main/Dashboard_Screenshots/Workforce%20Insights.png">Dashbord</a>
+
 
 ## Key Business Insights
  - Identified departments with the highest employee attrition.
